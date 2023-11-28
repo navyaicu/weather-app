@@ -25,3 +25,10 @@ This Python script uses the OpenWeatherMap API to retrieve current weather infor
    Current Temperature: 20°C
    Maximum Temperature: 25°C
    Minimum Temperature: 15°C
+
+Testing with Postman:
+
+Open Postman and create a new GET request.
+Set the URL to: http://api.openweathermap.org/data/2.5/weather
+Add parameters: q, appid, units
+Send the request to simulate the script.
