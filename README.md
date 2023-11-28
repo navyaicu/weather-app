@@ -9,7 +9,7 @@ This Python script uses the OpenWeatherMap API to retrieve current weather infor
    - OpenWeatherMap API key
 
 2. **Installation:**
-   - Clone the repository: `git clone https://github.com/your-username/your-repository.git`
+   - Clone the repository: `git clone https://github.com/navyaicu/weather app.git`
    - Install required packages: `pip install -r requirements.txt`
    - Replace 'YOUR_API_KEY' in the script with your OpenWeatherMap API key.
 
